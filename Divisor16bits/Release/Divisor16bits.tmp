@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\Release\Divisor16bits.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Divisor16bits.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Divisor16bits.map</FILE>
+  <FILE>Divisor16bits.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>17</LINE></START>
+  <USART_Init><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>19</LINE></USART_Init>
+  <CICLO><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>35</LINE></CICLO>
+  <multi><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>36</LINE></multi>
+  <div16b><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>99</LINE></div16b>
+  <UART_TRANSMIT><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>70</LINE></UART_TRANSMIT>
+  <esperar><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>65</LINE></esperar>
+  <espera1s><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>78</LINE></espera1s>
+  <repetir2><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>80</LINE></repetir2>
+  <repetir1><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>82</LINE></repetir1>
+  <repetir><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>84</LINE></repetir>
+  <chkzero><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>100</LINE></chkzero>
+  <divis><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>106</LINE></divis>
+  <findiv><FILE>C:\Users\dinos\Documents\Atmel Studio\7.0\Divisor16bits\Divisor16bits\main.asm</FILE><LINE>113</LINE></findiv>
+ </LABELS>
+</ASSEMBLER_INFO>
